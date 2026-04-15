@@ -40,5 +40,5 @@ An AI-powered web application that converts PDFs into interactive flashcards for
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/LipsaDas0710/Pdf-to-flashcard.git
-cd Pdf-to-flashcard
+git clone git clone https://github.com/rajalaxmeparida/Flashcard.git
+cd Flashcard
